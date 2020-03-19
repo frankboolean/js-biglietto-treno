@@ -20,4 +20,4 @@ if(età < 18){
 // se età maggiore di 65 applicare 40%
 
 //  dire prezzo biglietto
-document.getElementById('messaggio').innerHTML = "lei paga" +  prezzo_totale;
+document.getElementById('messaggio').innerHTML = "lei paga " +  prezzo_totale + " euro";
